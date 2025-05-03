@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicación de Factores de Riesgo Psicosocial (NOM-035)
 
 Esta aplicación permite evaluar y gestionar los factores de riesgo psicosocial en el entorno laboral, conforme a los requisitos de la NOM-035-STPS-2018.
